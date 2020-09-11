@@ -1,0 +1,35 @@
+{
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "content": {
+        "id": 1,
+        "titulo": "vestido negro",
+        "calificacion": 5,
+        "descripcionBreve": "Lorem Ipsum dolor sit",
+        "colores": [
+            "rojo",
+            "verde",
+            "azul"
+        ],
+        "tallas": [
+            "xs",
+            "s",
+            "m",
+            "l",
+            "xl"
+        ],
+        "sku": "B68496",
+        "precio": 315.99,
+        "imagenes": [
+            "B68496_1.jpg",
+            "B68496_2.jpg",
+            "B68496_3.jpg",
+            "B68496_4.jpg",
+            "B68496_5.jpg"
+        ],
+        "descripcion": "Lorem Ipsum dolor sit Lorem Ipsum dolor sit Lorem Ipsum dolor sit Lorem Ipsum dolor sit Lorem Ipsum dolor sit",
+        "tallasTexto":  "Lorem Ipsum dolor sit Lorem Ipsum dolor s"
+    }
+}

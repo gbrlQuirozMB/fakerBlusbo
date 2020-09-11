@@ -1,0 +1,39 @@
+{
+    "content": [
+        {
+            "id": 1,
+            "descripcion": "Lorem Ipsum dolor sit",
+            "precio": 0.00,
+            "calificacion": 5
+        },
+        {
+            "id": 2,
+            "descripcion": "Lorem Ipsum dolor sit",
+            "precio": 0.00,
+            "calificacion": 5
+        },
+        {
+            "id": 3,
+            "descripcion": "Lorem Ipsum dolor sit",
+            "precio": 0.00,
+            "calificacion": 5
+        }
+    ],
+    "totalElements": 3,
+    "totalPages": 1,
+    "last": true,
+    "sort": [
+        {
+            "direction": "ASC",
+            "property": "precio",
+            "ignoreCase": false,
+            "nullHandling": "NATIVE",
+            "descending": false,
+            "ascending": true
+        }
+    ],
+    "first": true,
+    "numberOfElements": 3,
+    "size": 1,
+    "number": 0
+}

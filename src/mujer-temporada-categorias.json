@@ -1,0 +1,26 @@
+{
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "content": [
+        {
+            "id": 1,
+            "descripcion": "Lorem Ipsum dolor sit",
+            "titulo": "Lorem Ipsum dolor sit",
+            "imagen": "B68496_1.jpg"
+        },
+        {
+            "id": 1,
+            "descripcion": "Lorem Ipsum dolor sit",
+            "titulo": "Lorem Ipsum dolor sit",
+            "imagen": "B68496_1.jpg"
+        },
+        {
+            "id": 1,
+            "descripcion": "Lorem Ipsum dolor sit",
+            "titulo": "Lorem Ipsum dolor sit",
+            "imagen": "B68496_1.jpg"
+        }
+    ]
+}

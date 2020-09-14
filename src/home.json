@@ -1,0 +1,38 @@
+{
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "content": [
+        {
+            "id": 1,
+            "banner": "imagen_de_temporada.jpg",
+            "titulo": "temporada x",
+            "url": "/liga-temporada"
+        },
+        {
+            "id": 1,
+            "banner": "imagen_look.jpg",
+            "titulo": "look",
+            "url": "/liga-look"
+        },
+        {
+            "id": 1,
+            "banner": "imagen_descuentos.jpg",
+            "titulo": "descuentos increibles",
+            "url": "/liga-descuentos"
+        },
+        {
+            "id": 1,
+            "banner": "imagen_hombre.jpg",
+            "titulo": "la mejor moda para hombre",
+            "url": "/liga-hombre"
+        },
+        {
+            "id": 1,
+            "banner": "imagen_descubre.jpg",
+            "titulo": "descubre",
+            "url": "/liga-descubre"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": 1,
+    "descripcion": "sueteres",
+    "productos": [
+        {
+            "id": 1,
+            "titulo": "sueter negro",
+            "calificacion": 5,
+            "descripcionBreve": "Lorem Ipsum dolor sit",
+            "sku": "B68496",
+            "precio": 315.99,
+            "imagen":"B68496_1.jpg",
+            "precioRebaja": 123.99
+        },
+        {
+            "id": 1,
+            "titulo": "sueter negro",
+            "calificacion": 5,
+            "descripcionBreve": "Lorem Ipsum dolor sit",
+            "sku": "B68496",
+            "precio": 315.99,
+            "imagen":"B68496_1.jpg",
+            "precioRebaja": 123.99
+        },
+        {
+            "id": 1,
+            "titulo": "sueter negro",
+            "calificacion": 5,
+            "descripcionBreve": "Lorem Ipsum dolor sit",
+            "sku": "B68496",
+            "precio": 315.99,
+            "imagen":"B68496_1.jpg",
+            "precioRebaja": 123.99
+        }
+    ]
+}

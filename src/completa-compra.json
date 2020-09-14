@@ -1,0 +1,38 @@
+{
+    "nombreCompleto": "Lorem Ipsum dolor sit",
+    "codigoPostal": "42098",
+    "estado": "hidalgo",
+    "municipio": "pachuca de soto",
+    "colonia": "terrazas",
+    "calle": "rio panuco",
+    "numInterior": "115",
+    "telefonoContacto": "7711234567",
+    "detalleCompra": [
+        {
+            "id": 1,
+            "sku": "B68496",
+            "imagen": "B68496_1.jpg",
+            "precio": 315.99
+        },
+        {
+            "id": 2,
+            "sku": "A12345",
+            "imagen": "A12345_1.jpg",
+            "precio": 123.45
+        },
+        {
+            "id": 3,
+            "sku": "C09876",
+            "imagen": "C09876_1.jpg",
+            "precio": 987.54
+        }
+    ],
+    "metodoPago": 1,
+    "Tarjeta": "amex",
+    "numeroTarjeta": "1234567890",
+    "correo": "cliente@hotmail.com",
+    "vencimientoMes": 12,
+    "vencimientoAnio": 2024,
+    "codSeguridad": 1234,
+    "titular": "juan perez"
+}

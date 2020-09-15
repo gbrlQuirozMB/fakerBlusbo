@@ -1,6 +1,7 @@
 {
     "id": 1,
-    "descripcion": "sueteres",
+    "descripcionCategoria": "sueteres",
+    "descripcionTemporada": "otoño - diciembre",
     "productos": [
         {
             "id": 1,

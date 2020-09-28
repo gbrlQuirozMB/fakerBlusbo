@@ -134,6 +134,19 @@ def getMujerCategorias(id):
     r.headers["Content-Type"] = "application/json; charset=utf-8"
     return r
 
+@api.route('/hombre/temporada/<id>/categorias', methods=['GET'])
+def getMujerCategorias(id):
+    if id != '1':
+        r = Response(json.dumps(notFound), status=404)
+    else:
+        with open('hombre-temporada-categorias.json', 'r') as j:
+            jsonData = json.load(j)
+        r = Response(json.dumps(jsonData), status=200)
+
+    r.headers["Content-Type"] = "application/json; charset=utf-8"
+    return r
+
+
 @api.route('/rebajas/<id>', methods=['GET'])
 def getRebajas(id):
     if id != '1':

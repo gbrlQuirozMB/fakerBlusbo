@@ -197,6 +197,28 @@
 			"response": []
 		},
 		{
+			"name": "http://localhost:5000/hombre/temporada/1/categorias",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5000/hombre/temporada/1/categorias",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5000",
+					"path": [
+						"hombre",
+						"temporada",
+						"1",
+						"categorias"
+					]
+				}
+			},
+			"response": []
+		},
+		{
 			"name": "http://localhost:5000/mujer/temporada/1",
 			"request": {
 				"method": "GET",

@@ -7,27 +7,32 @@
         {
             "id": 1,
             "texto": "home",
-            "url": "home/"
+            "url": "home/",
+            "extra": "temporada/1"
         },
         {
             "id": 2,
             "texto": "mujer",
-            "url": "mujer/"
+            "url": "mujer/",
+            "extra": "temporada/1"
         },
         {
             "id": 3,
             "texto": "hombre",
-            "url": "hombre/"
+            "url": "hombre/",
+            "extra": "temporada/1"
         },
         {
             "id": 4,
             "texto": "rebajas",
-            "url": "rebajas/"
+            "url": "rebajas/",
+            "extra": "temporada/1"
         },
         {
             "id": 5,
             "texto": "otoño - invierno ",
-            "url": "otonio-invierno/"
+            "url": "otonio-invierno/",
+            "extra": "temporada/1"
         }
     ]
 }

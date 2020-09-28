@@ -210,3 +210,5 @@ pip-selfcheck.json
 
 tempTrabajo/
 .vscode
+
+.idea/

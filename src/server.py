@@ -135,7 +135,7 @@ def getMujerCategorias(id):
     return r
 
 @api.route('/hombre/temporada/<id>/categorias', methods=['GET'])
-def getMujerCategorias(id):
+def getHombreCategorias(id):
     if id != '1':
         r = Response(json.dumps(notFound), status=404)
     else:

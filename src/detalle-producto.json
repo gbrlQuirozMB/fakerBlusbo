@@ -5,31 +5,161 @@
     },
     "content": {
         "id": 1,
-        "titulo": "vestido negro",
-        "calificacion": 5,
-        "descripcionBreve": "Lorem Ipsum dolor sit",
-        "colores": [
-            "rojo",
-            "verde",
-            "azul"
-        ],
-        "tallas": [
-            "xs",
-            "s",
-            "m",
-            "l",
-            "xl"
-        ],
-        "sku": "B68496",
-        "precio": 315.99,
-        "imagenes": [
-            "B68496_1.jpg",
-            "B68496_2.jpg",
-            "B68496_3.jpg",
-            "B68496_4.jpg",
-            "B68496_5.jpg"
-        ],
-        "descripcion": "Lorem Ipsum dolor sit Lorem Ipsum dolor sit Lorem Ipsum dolor sit Lorem Ipsum dolor sit Lorem Ipsum dolor sit",
-        "tallasTexto":  "Lorem Ipsum dolor sit Lorem Ipsum dolor s"
+        "nombre": "Vestido corto combinado a 4 tonos stretch",
+        "descripcion": "Vestido corto 4 tonos, manga corta, cuello redondo. 92cm x 88cm x 94cm",
+        "tallaColor": [
+            {
+                "id": 1,
+                "fotos": [
+                    {
+                        "id": 1,
+                        "foto": "/uploads/_POS3122.png",
+                        "principal": 1,
+                        "producto": 1
+                    },
+                    {
+                        "id": 2,
+                        "foto": "/uploads/_POS3127.png",
+                        "principal": 0,
+                        "producto": 1
+                    },
+                    {
+                        "id": 4,
+                        "foto": "/uploads/_POS3136.png",
+                        "principal": 0,
+                        "producto": 1
+                    }
+                ],
+                "sku": "1234567890",
+                "precio": 329.0,
+                "talla": "Unitalla",
+                "color": "Marino",
+                "producto": 1
+            },
+            {
+                "id": 2,
+                "fotos": [
+                    {
+                        "id": 5,
+                        "foto": "/uploads/_POS3137.png",
+                        "principal": 1,
+                        "producto": 2
+                    },
+                    {
+                        "id": 6,
+                        "foto": "/uploads/_POS3142.png",
+                        "principal": 0,
+                        "producto": 2
+                    },
+                    {
+                        "id": 7,
+                        "foto": "/uploads/_POS3145.png",
+                        "principal": 0,
+                        "producto": 2
+                    },
+                    {
+                        "id": 8,
+                        "foto": "/uploads/_POS3148.png",
+                        "principal": 0,
+                        "producto": 2
+                    }
+                ],
+                "sku": "1234567891",
+                "precio": 329.0,
+                "talla": "Unitalla",
+                "color": "Negro",
+                "producto": 1
+            },
+            {
+                "id": 3,
+                "fotos": [
+                    {
+                        "id": 9,
+                        "foto": "/uploads/_POS3152.png",
+                        "principal": 1,
+                        "producto": 3
+                    },
+                    {
+                        "id": 10,
+                        "foto": "/uploads/_POS3152.png",
+                        "principal": 0,
+                        "producto": 3
+                    },
+                    {
+                        "id": 11,
+                        "foto": "/uploads/_POS3154.png",
+                        "principal": 0,
+                        "producto": 3
+                    },
+                    {
+                        "id": 12,
+                        "foto": "/uploads/_POS3157.png",
+                        "principal": 0,
+                        "producto": 3
+                    },
+                    {
+                        "id": 13,
+                        "foto": "/uploads/_POS3163.png",
+                        "principal": 0,
+                        "producto": 3
+                    }
+                ],
+                "sku": "1234567892",
+                "precio": 329.0,
+                "talla": "Unitalla",
+                "color": "Vino",
+                "producto": 1
+            },
+            {
+                "id": 4,
+                "fotos": [
+                    {
+                        "id": 14,
+                        "foto": "/uploads/_POS3165.png",
+                        "principal": 1,
+                        "producto": 4
+                    },
+                    {
+                        "id": 15,
+                        "foto": "/uploads/_POS3168.png",
+                        "principal": 0,
+                        "producto": 4
+                    },
+                    {
+                        "id": 16,
+                        "foto": "/uploads/_POS3172.png",
+                        "principal": 0,
+                        "producto": 4
+                    },
+                    {
+                        "id": 17,
+                        "foto": "/uploads/_POS3173.png",
+                        "principal": 0,
+                        "producto": 4
+                    }
+                ],
+                "sku": "1234567893",
+                "precio": 329.0,
+                "talla": "Unitalla",
+                "color": "Rojo",
+                "producto": 1
+            },
+            {
+                "id": 5,
+                "fotos": [
+                    {
+                        "id": 3,
+                        "foto": "/uploads/_POS3131.png",
+                        "principal": 1,
+                        "producto": 5
+                    }
+                ],
+                "sku": "1234567894",
+                "precio": 329.0,
+                "talla": "Unitalla",
+                "color": "Blanco",
+                "producto": 1
+            }
+        ]
     }
 }

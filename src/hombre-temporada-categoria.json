@@ -1,33 +1,39 @@
 {
-    "id": 1,
-    "descripcion": "sueteres",
-    "productos": [
-        {
-            "id": 1,
-            "titulo": "sueter negro",
-            "calificacion": 5,
-            "descripcionBreve": "Lorem Ipsum dolor sit",
-            "sku": "B68496",
-            "precio": 315.99,
-            "imagen":"B68496_1.jpg"
-        },
-        {
-            "id": 1,
-            "titulo": "sueter negro",
-            "calificacion": 5,
-            "descripcionBreve": "Lorem Ipsum dolor sit",
-            "sku": "B68496",
-            "precio": 315.99,
-            "imagen":"B68496_1.jpg"
-        },
-        {
-            "id": 1,
-            "titulo": "sueter negro",
-            "calificacion": 5,
-            "descripcionBreve": "Lorem Ipsum dolor sit",
-            "sku": "B68496",
-            "precio": 315.99,
-            "imagen":"B68496_1.jpg"
-        }
-    ]
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "content": {
+        "id": 1,
+        "descripcion": "sueteres",
+        "productos": [
+            {
+                "id": 1,
+                "titulo": "sueter negro",
+                "calificacion": 5,
+                "descripcionBreve": "Lorem Ipsum dolor sit",
+                "sku": "B68496",
+                "precio": 315.99,
+                "imagen": "http://localhost/assets/img/HOMBRE-2.png"
+            },
+            {
+                "id": 1,
+                "titulo": "sueter negro",
+                "calificacion": 5,
+                "descripcionBreve": "Lorem Ipsum dolor sit",
+                "sku": "B68496",
+                "precio": 315.99,
+                "imagen": "http://localhost/assets/img/HOMBRE-2.png"
+            },
+            {
+                "id": 1,
+                "titulo": "sueter negro",
+                "calificacion": 5,
+                "descripcionBreve": "Lorem Ipsum dolor sit",
+                "sku": "B68496",
+                "precio": 315.99,
+                "imagen": "http://localhost/assets/img/HOMBRE-2.png"
+            }
+        ]
+    }
 }

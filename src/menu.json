@@ -5,12 +5,6 @@
     },
     "content": [
         {
-            "id": 1,
-            "texto": "home",
-            "url": "home/",
-            "extra": "temporada/1"
-        },
-        {
             "id": 2,
             "texto": "mujer",
             "url": "mujer/",

@@ -1,5 +1,11 @@
 {
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "content": {
     "id":1,
-    "banner": "imagen_de_temporada.jpg",
+    "banner": "http://localhost/assets/img/BANNER-1.png",
     "titulo":"temporada x"
+    }
 }

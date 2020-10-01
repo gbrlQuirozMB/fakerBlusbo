@@ -14,25 +14,25 @@
                 "descripcionBreve": "Lorem Ipsum dolor sit",
                 "sku": "B68496",
                 "precio": 315.99,
-                "imagen":"http://localhost/assets/img/_POS3131.png"
+                "imagen":"/assets/img/_POS3131.png"
             },
             {
                 "id": 1,
-                "titulo": "vestido negro",
+                "titulo": "vestido azul",
                 "calificacion": 5,
                 "descripcionBreve": "Lorem Ipsum dolor sit",
                 "sku": "B68496",
                 "precio": 315.99,
-                "imagen":"http://localhost/assets/img/_POS3131.png"
+                "imagen":"/assets/img/_POS3131.png"
             },
             {
                 "id": 1,
-                "titulo": "vestido negro",
+                "titulo": "vestido verde",
                 "calificacion": 5,
                 "descripcionBreve": "Lorem Ipsum dolor sit",
                 "sku": "B68496",
                 "precio": 315.99,
-                "imagen":"http://localhost/assets/img/_POS3131.png"
+                "imagen":"/assets/img/_POS3131.png"
             }
         ]
     }

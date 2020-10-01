@@ -7,20 +7,20 @@
         {
             "id": 1,
             "descripcion": "Lorem Ipsum dolor sit",
-            "titulo": "Lorem Ipsum dolor sit",
-            "imagen": "B68496_1.jpg"
+            "titulo": "1 Lorem Ipsum dolor sit",
+            "imagen": "/assets/img/categorias.jpg"
         },
         {
             "id": 1,
             "descripcion": "Lorem Ipsum dolor sit",
-            "titulo": "Lorem Ipsum dolor sit",
-            "imagen": "B68496_1.jpg"
+            "titulo": "2 Lorem Ipsum dolor sit",
+            "imagen": "/assets/img/categorias.jpg"
         },
         {
             "id": 1,
             "descripcion": "Lorem Ipsum dolor sit",
-            "titulo": "Lorem Ipsum dolor sit",
-            "imagen": "B68496_1.jpg"
+            "titulo": "3 Lorem Ipsum dolor sit",
+            "imagen": "/assets/img/categorias.jpg"
         }
     ]
 }

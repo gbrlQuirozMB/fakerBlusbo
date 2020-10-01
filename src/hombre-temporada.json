@@ -5,7 +5,7 @@
     },
     "content": {
         "id":1,
-        "banner": "http://localhost/assets/img/BANNER-1.png",
+        "banner": "/assets/img/BANNER-4.png",
         "titulo":"temporada x"
     }
 }

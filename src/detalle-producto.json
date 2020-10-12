@@ -13,19 +13,19 @@
                 "fotos": [
                     {
                         "id": 1,
-                        "foto": "/uploads/_POS3122.png",
-                        "principal": 1,
-                        "producto": 1
-                    },
-                    {
-                        "id": 2,
-                        "foto": "/uploads/_POS3127.png",
+                        "foto": "/assets/img/_POS3136.png",
                         "principal": 0,
                         "producto": 1
                     },
                     {
+                        "id": 2,
+                        "foto": "/assets/img/_POS3127.png",
+                        "principal": 1,
+                        "producto": 1
+                    },
+                    {
                         "id": 4,
-                        "foto": "/uploads/_POS3136.png",
+                        "foto": "/assets/img/_POS3122.png",
                         "principal": 0,
                         "producto": 1
                     }
@@ -42,30 +42,30 @@
                 "fotos": [
                     {
                         "id": 5,
-                        "foto": "/uploads/_POS3137.png",
+                        "foto": "/assets/img/_POS3136.png",
                         "principal": 1,
                         "producto": 2
                     },
                     {
                         "id": 6,
-                        "foto": "/uploads/_POS3142.png",
+                        "foto": "/assets/img/_POS3127.png",
                         "principal": 0,
                         "producto": 2
                     },
                     {
                         "id": 7,
-                        "foto": "/uploads/_POS3145.png",
+                        "foto": "/assets/img/_POS3122.png",
                         "principal": 0,
                         "producto": 2
                     },
                     {
                         "id": 8,
-                        "foto": "/uploads/_POS3148.png",
+                        "foto": "/assets/img/_POS3136.png",
                         "principal": 0,
                         "producto": 2
                     }
                 ],
-                "sku": "1234567891",
+                "sku": "234567891",
                 "precio": 329.0,
                 "costo": null,
                 "talla": "Unitalla",
@@ -106,7 +106,7 @@
                         "producto": 3
                     }
                 ],
-                "sku": "1234567892",
+                "sku": "34567892",
                 "precio": 329.0,
                 "costo": null,
                 "talla": "Unitalla",
@@ -141,7 +141,7 @@
                         "producto": 4
                     }
                 ],
-                "sku": "1234567893",
+                "sku": "4567893",
                 "precio": 329.0,
                 "costo": null,
                 "talla": "Unitalla",
@@ -158,7 +158,7 @@
                         "producto": 5
                     }
                 ],
-                "sku": "1234567894",
+                "sku": "567894",
                 "precio": 329.0,
                 "costo": null,
                 "talla": "Unitalla",

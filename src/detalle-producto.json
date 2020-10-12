@@ -32,6 +32,7 @@
                 ],
                 "sku": "1234567890",
                 "precio": 329.0,
+                "costo": null,
                 "talla": "Unitalla",
                 "color": "Marino",
                 "producto": 1
@@ -66,6 +67,7 @@
                 ],
                 "sku": "1234567891",
                 "precio": 329.0,
+                "costo": null,
                 "talla": "Unitalla",
                 "color": "Negro",
                 "producto": 1
@@ -106,6 +108,7 @@
                 ],
                 "sku": "1234567892",
                 "precio": 329.0,
+                "costo": null,
                 "talla": "Unitalla",
                 "color": "Vino",
                 "producto": 1
@@ -140,6 +143,7 @@
                 ],
                 "sku": "1234567893",
                 "precio": 329.0,
+                "costo": null,
                 "talla": "Unitalla",
                 "color": "Rojo",
                 "producto": 1
@@ -156,6 +160,7 @@
                 ],
                 "sku": "1234567894",
                 "precio": 329.0,
+                "costo": null,
                 "talla": "Unitalla",
                 "color": "Blanco",
                 "producto": 1
